@@ -1,13 +1,8 @@
-# The Bezel Project - Sega Naomi
- 
-OVERVIEW
+# Overview
 
-This is a bezel back for the bezel project to support Sega Naomi.
+This fork is intended to provide bezels without a tv border.
 
-The bezel packs are used in a RetroPie build for providing game bezels.
+## Pre-Requisites
 
-Thanks go out to AlexDC22 for the original bezel files from which the bezel files here are based.
-
-The graphics in this repository follow the following design.
-
-![Sample bezel](https://github.com/thebezelproject/bezelproject-Naomi/blob/master/retroarch/overlay/GameBezels/Naomi/alienfnt.png?raw=true)
+- PowerShell
+- ImageMagick
